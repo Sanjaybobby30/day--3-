@@ -1,0 +1,8 @@
+find the maximmum number among the given values
+
+let a = 20;
+let b = 30;
+let c = 10;
+
+let max = Math.max(a, b, c);
+console.log("The maximum number is:", max);
